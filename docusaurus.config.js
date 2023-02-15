@@ -134,7 +134,7 @@ const config = {
       logo: {
       alt: 'Image',
       src: '/img/favicon.ico',
-      href: 'https://discord.gg/gQPgpp4aDe',
+      href: 'https://discord.gg/8Ych352hZZ',
       },
         copyright: `Copyright © ${new Date().getFullYear()} AYC Servers, Inc. Built with Docusaurus`,
       },
